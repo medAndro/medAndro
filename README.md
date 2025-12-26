@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=medandro)](https://solved.ac/medandro/)
 
-[![PlayBadges Card](https://badge.medandro.com/badge/full?id=com.yagubogu)](https://get.yagubogu.com)
+[![PlayBadges Card](https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr)](https://get.yagubogu.com)
 
 <!--
 **medAndro/medAndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
