@@ -1,20 +1,62 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Meda%27s%20GitHub%20%F0%9F%8C%8C&stroke=111112&textBg=false&descAlignY=61&strokeWidth=2"/>
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=medandro)](https://solved.ac/medandro/)
+<h3 align="center">Tech Stack</h3>
 
-[![PlayBadges Card](https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr)](https://get.yagubogu.com)
+<div align="center">
+  <!-- Language & Core -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=JetpackCompose&logoColor=white" />
+  <br>
+  <!-- DI & Network -->
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=Square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=Ktor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+  <br>
+  <!-- Local Storage & Image -->
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coil-000000?style=for-the-badge&logo=Android&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataStore-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+  <br>
+</div>
 
-<!--
-**medAndro/medAndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>팀 프로젝트</h3>
+        <a href="https://get.yagubogu.com">
+          <img src="https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr" alt="PlayBadges Card"/>
+        </a>
+        <br><br>
+        <p align="left" style="font-size: 14px;">
+          <p align="center">
+          <b>위치 기반 야구장 직관 기록 커뮤니티 앱</b>  <br>
+              📱 <a href="https://get.yagubogu.com" style="text-decoration: none;">다운로드</a> | 
+    💻 <a href="https://github.com/woowacourse-teams/2025-yagu-bogu" style="text-decoration: none;">GitHub</a>
+  </p>
+      </td>
+            <td align="center" width="50%">
 
-Here are some ideas to get you started:
+<div align="center">
+          <h3>Solved.ac</h3>
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=medandro" alt="Solved.ac Profile"/><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<h3 align="center">🌱 Currently</h3>
+
+<p align="center">
+  🔭 <b>Working on</b>: 야구보구 서비스 운영 및 개선<br>
+  🌽 <b>Working on</b>: 콘킾 모바일 쿠폰 관리 앱 개발중<br>
+</p><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
