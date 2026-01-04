@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Meda%27s%20GitHub%20%F0%9F%8C%8C&stroke=111112&textBg=false&descAlignY=61&strokeWidth=2"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&text=Meda%27s%20GitHub%20%F0%9F%8C%8C&stroke=111112&textBg=false&descAlignY=61&strokeWidth=2"/>
 </p>
 
 <h3 align="center">Tech Stack</h3>
@@ -14,11 +14,10 @@
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=Square&logoColor=white" />
   <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=Ktor&logoColor=white" />
   <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-  <br>
-  <!-- Local Storage & Image -->
   <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coil-000000?style=for-the-badge&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataStore-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+  <br>
+  
+
   <br>
 </div>
 
