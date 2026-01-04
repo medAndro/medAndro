@@ -26,17 +26,25 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>팀 프로젝트</h3>
+<div align="center">
+        <h3>프로젝트</h3>
         <a href="https://get.yagubogu.com">
           <img src="https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr" alt="PlayBadges Card"/>
         </a>
         <br><br>
         <p align="left" style="font-size: 14px;">
           <p align="center">
-          <b>위치 기반 야구장 직관 기록 커뮤니티 앱</b>  <br> 
+          <b>2025 우아한 테크코스 7기 팀 프로젝트</b>  <br> 위치 기반 야구장 직관 기록 커뮤니티 앱 <br>           
               📱 <a href="https://get.yagubogu.com" style="text-decoration: none;">다운로드</a> | 
     💻 <a href="https://github.com/woowacourse-teams/2025-yagu-bogu" style="text-decoration: none;">GitHub</a>
-  </p>
+  </p> 
+
+---
+<p align="center">
+  🚲 <b>졸업작품</b>:  <a href="https://play.google.com/store/apps/details?id=com.meda.sejongbikehelper&hl=ko" style="text-decoration: none;">어울링 Helper - 정류장 위젯 & 알림</a><br>
+</p><br>
+
+</div>
       </td>
             <td align="center" width="50%">
 
@@ -53,6 +61,7 @@
 <p align="center">
   🔭 <b>Working on</b>: 야구보구 서비스 운영 및 개선<br>
   🌽 <b>콘킾 모바일 쿠폰 관리 앱 개발중...<br>
+       💼 <b>취준중...<br>
 </p><br>
       </td>
     </tr>
