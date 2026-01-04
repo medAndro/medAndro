@@ -33,7 +33,7 @@
         <br><br>
         <p align="left" style="font-size: 14px;">
           <p align="center">
-          <b>위치 기반 야구장 직관 기록 커뮤니티 앱</b>  <br>
+          <b>위치 기반 야구장 직관 기록 커뮤니티 앱</b>  <br> 
               📱 <a href="https://get.yagubogu.com" style="text-decoration: none;">다운로드</a> | 
     💻 <a href="https://github.com/woowacourse-teams/2025-yagu-bogu" style="text-decoration: none;">GitHub</a>
   </p>
@@ -52,7 +52,7 @@
 
 <p align="center">
   🔭 <b>Working on</b>: 야구보구 서비스 운영 및 개선<br>
-  🌽 <b>Working on</b>: 콘킾 모바일 쿠폰 관리 앱 개발중<br>
+  🌽 <b>콘킾 모바일 쿠폰 관리 앱 개발중...<br>
 </p><br>
       </td>
     </tr>
