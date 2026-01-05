@@ -50,7 +50,7 @@
 
 <div align="center">
           <h3>Solved.ac</h3>
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=medandro" alt="Solved.ac Profile"/><br>
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=medAndro" alt="Solved.ac Profile"/><br>
 
 </div>
 
