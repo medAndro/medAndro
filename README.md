@@ -1,7 +1,6 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&text=Meda%27s%20GitHub%20%F0%9F%8C%8C&stroke=111112&textBg=false&descAlignY=61&strokeWidth=2" style="display:block;width:100%;max-width:854px;height:auto;"/>
+    <img src="https://raw.githubusercontent.com/medAndro/medAndro/main/assets/header.svg" alt="Header"/>
 </p>
-
 
 <h3 align="center">Tech Stack</h3>
 
