@@ -36,7 +36,7 @@
           <p align="center">
           <b>2025 우아한 테크코스 7기 팀 프로젝트</b>  <br> 위치 기반 야구장 직관 기록 커뮤니티 앱 <br>           
               📱 <a href="https://get.yagubogu.com" style="text-decoration: none;">다운로드</a> | 
-    💻 <a href="https://github.com/woowacourse-teams/2025-yagu-bogu" style="text-decoration: none;">GitHub</a>
+    💻 <a href="https://github.com/medAndro/2025-yagu-bogu" style="text-decoration: none;">GitHub</a>
   </p> 
 
 ---
