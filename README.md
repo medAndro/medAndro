@@ -31,7 +31,7 @@
         <a href="https://get.yagubogu.com">
           <img src="https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr" alt="PlayBadges Card"/>
         </a>
-        <br><br>
+        <br>
         <p align="left" style="font-size: 14px;">
           <p align="center">
           <b>2025 우아한 테크코스 7기 팀 프로젝트</b>  <br> 위치 기반 야구장 직관 기록 커뮤니티 앱 <br>           
@@ -41,7 +41,13 @@
 
 ---
 <p align="center">
-  🚲 <b>졸업작품</b>:  <a href="https://play.google.com/store/apps/details?id=com.meda.sejongbikehelper&hl=ko" style="text-decoration: none;">어울링 Helper - 정류장 위젯 & 알림</a><br>
+    
+<a href="https://play.google.com/store/apps/details?id=com.meda.sejongbikehelper&hl=ko">
+  <img src="https://badge.medandro.com/badge/full?id=com.meda.sejongbikehelper&country=kr" alt="Google Play Badge" width="350"/>
+</a> <br>
+          <b>졸업작품</b>  <br> 공공 자전거 정류장 도우미 앱 <br>           
+              📱 <a href="https://play.google.com/store/apps/details?id=com.meda.sejongbikehelper&hl=ko" style="text-decoration: none;">다운로드</a> | 
+    💻 <a href="https://github.com/medAndro/SejongbikeHelper" style="text-decoration: none;">GitHub</a>
 </p><br>
 
 </div>
